@@ -48,3 +48,26 @@
   - 使用plt库绘制画布与坐标系
   - 使用rgb2hex库根据获取的确诊病例数据和国家地理信息对地图进行填色
   - 在动态图中使用plt库函数绘制条形图，不断获取每一天的数据进行绘制，通过animation实现动态可视化
+
+## 效果展示
+
+### 数据存储
+世界各国的疫情数据：
+![](results/Covid19_Of_Countrys.png "世界各国疫情情况")
+
+中国各城市的疫情数据：
+![](results/Covid19_Of_Citys.png "中国各城市的疫情数据")
+
+### 可视化
+
+世界疫情国家top15：
+![](results/Top15_Of_Countrys.png "世界疫情国家top15")
+
+中国疫情省市top10：
+![](results/Top10_Of_Citys.png "中国疫情省市top10")
+
+世界疫情地图：
+![](results/Map_Of_world.png "世界疫情地图")
+
+中国疫情地图：
+![](results/Map_Of_China.png "中国疫情地图")
