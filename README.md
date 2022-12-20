@@ -10,10 +10,10 @@
 - 丁香园：<https://ncov.dxy.cn/ncovh5/view/pneumonia>(现已停止服务)
 
 ## 程序功能
-- 爬取自2020年1月22日的全球各国疫情数据 (生成文件：*"data/corona_virus.json"*)
-- 爬取自2020年1月22日的全国各城市疫情数据 (生成文件：*"data/corona_virus_of_china.json"*)
-- 爬取今日全球疫情数据 (生成文件：*"data/各国疫情数据.xls"*,*"data/last_day_corona_virus.json"*)
-- 爬取今日全国疫情数据 (生成文件：*"data/各省市疫情数据.xls"*,*"data/last_day_corona_virus_of_china.json*")
+- 爬取自2020年1月22日的全球各国疫情数据 (生成文件：[data/corona_virus.json](data/corona_virus.json))
+- 爬取自2020年1月22日的全国各城市疫情数据 (生成文件：[data/corona_virus_of_china.json](data/corona_virus_of_china.json))
+- 爬取今日全球疫情数据 (生成文件：[data/last_day_corona_virus.json](data/last_day_corona_virus.json))
+- 爬取今日全国疫情数据 ([data/last_day_corona_virus_of_china.json](data/last_day_corona_virus_of_china.json))
 - 全球疫情可视化
 - 全国疫情可视化
 - 全球疫情动态发展可视化
