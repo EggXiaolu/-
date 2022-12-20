@@ -2,7 +2,7 @@
 
 ---
  **ps：由于数据源自2022年12月17日起不再提供服务，故本程序数据来源于2022年12月11日的存档(即：data目录下的四个json文件)**
- 
+
 ---
 
 
@@ -54,21 +54,26 @@
 
 ### 数据存储
 世界各国的疫情数据：
-![](results/Covid19_Of_Countrys.png "世界各国疫情情况")
+<div align=center><img src="results/Covid19_Of_Countrys.png" width="50%">
 
-中国各城市的疫情数据：
-![](results/Covid19_Of_Citys.png "中国各城市的疫情数据")
+<div align=left>中国各城市的疫情数据：
+
+<div align=center><img src="results/Covid19_Of_Citys.png" width="50%">
+<div align=left>
 
 ### 可视化
 
 世界疫情国家top15：
-![](results/Top15_Of_Countrys.png "世界疫情国家top15")
+<div align=center><img src="results/Top15_Of_Countrys.png" width="50%">
+<div align=left>
 
 中国疫情省市top10：
-![](results/Top10_Of_Citys.png "中国疫情省市top10")
+<div align=center><img src="results/Top10_Of_Citys.png" width="50%">
+<div align=left>
 
 世界疫情地图：
-![](results/Map_Of_world.png "世界疫情地图")
+<div align=center><img src="results/Map_Of_world.png" width="50%">
+<div align=left>
 
 中国疫情地图：
-![](results/Map_Of_China.png "中国疫情地图")
+<div align=center><img src="results/Map_Of_China.png" width="50%">
