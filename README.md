@@ -56,12 +56,12 @@
 世界各国的疫情数据：
 <div align=center><img src="results/Covid19_Of_Countrys.png" width="50%">
 
-图1 世界各国疫情数据
+<div align=center>图1 世界各国疫情数据
 <div align=left>中国各城市的疫情数据：
 
 <div align=center><img src="results/Covid19_Of_Citys.png" width="50%">
 
-图2 中国各城市疫情数据
+<div align=center>图2 中国各城市疫情数据
 <div align=left>
 
 ### 可视化
@@ -69,22 +69,22 @@
 世界疫情国家top15：
 <div align=center><img src="results/Top15_Of_Countrys.png" width="50%">
 
-图3 世界疫情国家top15
+<div align=center>图3 世界疫情国家top15
 <div align=left>
 
 中国疫情省市top10：
 <div align=center><img src="results/Top10_Of_Citys.png" width="50%">
 
-图4 中国疫情省市top10
+<div align=center>图4 中国疫情省市top10
 <div align=left>
 
 世界疫情地图：
 <div align=center><img src="results/Map_Of_world.png" width="50%">
 
-图5 世界疫情地图
+<div align=center>图5 世界疫情地图
 <div align=left>
 
 中国疫情地图：
 <div align=center><img src="results/Map_Of_China.png" width="50%">
 
-图6 中国疫情数据
+<div align=center>图6 中国疫情数据
